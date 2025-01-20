@@ -1,0 +1,250 @@
+[
+  {
+    "id": "A1",
+    "title": "Explainable AI for building trust and transparency",
+    "description": "Develop techniques to explain how AI models reach their decisions, fostering trust and transparency in AI applications.",
+    "track": ["AI/ML", "Web 2", "Web 3"]
+  },
+  {
+    "id": "A2",
+    "title": "Automated Emergency Call Analysis System for Emotional and Mental State Identification",
+    "description": "Develop an emergency response system to listen to a caller in distress and identify the emotional/mental state of the caller. The system should be able to classify the voice as Stressed/Drunk/ Prank/Abusive/Painful and send SMS alerts to Police at 100.",
+    "track": ["AI/ML"],
+    "contributor": "Dr. Devika Kataria"
+  },
+  {
+    "id": "A3",
+    "title": "Integrated Surveillance and Traffic Management System: Camera-Based Detection, Tracking, and Violation Recognition",
+    "description": "Develop an advanced surveillance and traffic management system capable of detecting, tracking, and recognizing various violations on roadways. The system should utilize surveillance cameras for real-time detection and tracking of moving vehicles, enabling automatic number plate recognition (ANPR) for identification purposes. Additionally, the system should have the capability to monitor and enforce traffic regulations by identifying and reporting violations such as speeding, illegal parking, and lane violations. It should provide real-time alerts and data on detected violations, including vehicle speed and license plate information, while ensuring accuracy and efficiency in the detection process.",
+    "track": ["AI/ML"],
+    "contributor": "Dr. Arpan Gupta"
+  },
+  {
+    "id": "A4",
+    "title": "Sports Video Analytics for Ball Tracking and Player Identification",
+    "description": "Develop a sports video analytics system tailored for ball tracking in games like tennis and cricket, alongside player detection and disambiguation. This system will enable accurate tracking of the ball's trajectory during gameplay and identification of individual players, enhancing performance analysis and viewer experience.",
+    "track": ["AI/ML"],
+    "contributor": "Dr. Arpan Gupta"
+  },
+  {
+    "id": "A5",
+    "title": "Computer Vision for Robotics and Autonomous Systems",
+    "description": "Design computer vision algorithms that enable robots and autonomous vehicles to navigate their environment safely and efficiently.",
+    "track": ["AI/ML", "IoT"]
+  },
+  {
+    "id": "A6",
+    "title": "Smart Tutor for Personalized Learning",
+    "description": "Design an AI-powered tutoring system that adapts to individual students' learning styles and pace. It could analyse homework performance, offer targeted explanations, and recommend supplementary resources to help students master concepts and stay motivated.",
+    "track": ["AI/ML"]
+  },
+  {
+    "id": "A7",
+    "title": "Develop a comprehensive framework for startup growth metrics tailored to the needs of incubators.",
+    "description": "Capture essential startup growth stages: Go beyond basic metrics and track progress across key areas like customer acquisition, market validation, product development, team growth, and traction milestones. Be customizable: Accommodate diverse startup models and industries within the incubator's portfolio. Integrate with existing data sources: Leverage existing incubator data (e.g., mentor reports, funding records, event participation) alongside external data sources (e.g., web analytics, social media engagement). Provide actionable insights: Enable incubators to identify strengths, weaknesses, and specific areas where they can support startups most effectively. Facilitate data-driven decision-making: Allow incubators to optimize their programs and resources based on tangible results and trends. Bonus points: Design interactive dashboards for visualizing startup growth and incubator performance. Develop predictive models to forecast future success potential of startups. Integrate your solution with existing incubator management platforms. By tackling this challenge, you can revolutionize the way incubators track and support their startups, ultimately increasing their success rate and contributing to a thriving entrepreneurial ecosystem.",
+    "track": ["AI/ML", "Web 2", "Web 3"],
+    "contributor": "AIC-JKLU",
+    "sponsored": "true"
+  },
+  {
+    "id": "C1",
+    "title": "Network Camera Sniffer: Geotagging and Video Capture for Surveillance Identification",
+    "description": "Design a sniffer which can sniff the network to identify open cameras and geotag them to find the location as well as capture the videos.",
+    "track": ["Cybersecurity", "IoT"],
+    "contributor": "Dr. Devika Kataria"
+  },
+  {
+    "id": "C2",
+    "title": "Network Threat Detection and Reporting System: Identifying and Collecting Information on Malicious Activity",
+    "description": "Develop a system to report threat events/attempts on the network and collect information as attacker IP address, port and type of malicious activity.",
+    "track": ["Cybersecurity"],
+    "contributor": "Dr. Devika Kataria"
+  },
+  {
+    "id": "C3",
+    "title": "Cryptocurrency Security: Hardware Wallet Solution",
+    "description": "Create a hardware wallet for storing and managing cryptocurrencies securely. Participants can focus on implementing secure key storage, transaction signing, and protection against physical tampering.",
+    "track": ["Cybersecurity", "Web 3"],
+    "contributor": "Dr. Surbhi Chhabra"
+  },
+  {
+    "id": "C4",
+    "title": "Secure Boot for Embedded Systems",
+    "description": "Develop a secure boot process for a microcontroller or embedded system, ensuring that only authorized firmware is executed. Participants can explore techniques like digital signatures, secure key storage, and chain of trust.",
+    "track": ["Cybersecurity", "IoT"],
+    "contributor": "Dr. Surbhi Chhabra"
+  },
+  {
+    "id": "C5",
+    "title": "Employee Phishing Awareness",
+    "description": "Develop an interactive platform to educate employees about phishing attacks, simulating real-world scenarios to enhance their ability to recognize and report suspicious emails.",
+    "track": ["Cybersecurity"]
+  },
+  {
+    "id": "C6",
+    "title": "Mobile App Security",
+    "description": "Create a tool to assess and enhance the security of mobile applications, focusing on preventing data leakage, unauthorized access, and mitigating risks associated with third-party libraries.",
+    "track": ["Cybersecurity"]
+  },
+  {
+    "id": "C7",
+    "title": "Secure File Transfer",
+    "description": "Design a secure file transfer protocol that ensures the confidentiality and integrity of data during transmission. The challenge involves creating a reliable method for encrypted file transfers between devices.",
+    "track": ["Cybersecurity"]
+  },
+  {
+    "id": "C8",
+    "title": "Fault Injection Defense for Embedded Systems",
+    "description": "Develop a countermeasure against fault injection attacks on hardware devices. Participants can explore techniques to detect and mitigate the effects of voltage and clock glitch attacks on embedded systems/IoT devices.",
+    "track": ["Cybersecurity", "IoT"],
+    "contributor": "Dr. Surbhi Chhabra"
+  },
+  {
+    "id": "C9",
+    "title": "Fortified IoT Hardware Architecture Solution",
+    "description": "Develop a secure hardware architecture for Internet of Things (IoT) devices. Participants can consider power-efficient cryptographic algorithms, secure communication protocols, and resistance against physical attacks.",
+    "track": ["Cybersecurity", "IoT"],
+    "contributor": "Dr. Surbhi Chhabra"
+  },
+
+  {
+    "id": "G1",
+    "title": "Simple Snake Game with a Twist",
+    "description": "How about a 3D snake game, where you are the snake and you are playing with a first-person perspective? At hackathons, various VR and AR systems are being developed to build such advanced games.",
+    "track": ["GAME DEV/AR/VR"]
+  },
+  {
+    "id": "G2",
+    "title": "Economy and Gaming Interlinked with each other",
+    "description": "How can we create an efficient and dynamic in-game economy that strikes a balance between player engagement and fair monetization, addressing challenges such as creating compelling virtual goods, preventing inflation, and fostering a sustainable ecosystem for both free-to-play and paying users?",
+    "track": ["GAME DEV/AR/VR"]
+  },
+  {
+    "id": "G3",
+    "title": "AR Treasure Hunt",
+    "description": "Create an augmented reality (AR) game where players explore the real world to find virtual treasures using their smartphones or AR glasses. Use geolocation and AR markers to guide players to different locations where they",
+    "track": ["GAME DEV/AR/VR"]
+  },
+  {
+    "id": "G4",
+    "title": "Inclusivity in Gaming",
+    "description": "How can we design and implement features in a game that promote inclusivity, considering factors such as accessibility features, diverse character representation, and gameplay mechanics that cater to players with varying skill levels and preferences?",
+    "track": ["GAME DEV/AR/VR"]
+  },
+  {
+    "id": "G5",
+    "title": "Character Mechanism",
+    "description": "Use generative AI to create or evolve game mechanics, characters, or your favorite game, or share an idea for a new game from scratch.",
+    "track": ["GAME DEV/AR/VR"]
+  },
+  {
+    "id": "I1",
+    "title": "Secure Geolocation-Based Toll Payment and Speed Monitoring System for Expressways",
+    "description": "Develop a secure geolocation based  payment system which deduct the toll fees at entry of any expressway as soon as the car enters the expressway, without having any toll barriers. The system should also scan the number plate and generate an alarm if speed exceeds 100kph at any time.",
+    "track": ["IoT"],
+    "contributor": "Dr. Devika Kataria"
+  },
+  {
+    "id": "I2",
+    "title": "Waste to Wonder",
+    "description": "Plastic bottles, food scraps, and discarded electronics clutter college waste bins. Design a creative, sustainable way to upcycle or repurpose these waste materials into valuable objects. Imagine turning single-use plastics into 3D-printed furniture or transforming food scraps into campus compost for community gardens.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I3",
+    "title": "Water Management",
+    "description": "College water usage can be high, leading to strain on local resources. Develop a system to monitor water consumption, identify leaks, promote water conservation practices, or even harvest rainwater for non-potable uses.",
+    "track": ["IoT"]
+  },
+
+  {
+    "id": "I4",
+    "title": "Precision Irrigation Management System",
+    "description": "Develop an advanced solution empowering farmers to efficiently monitor and optimize crop irrigation practices. This system integrates cutting-edge technology to provide real-time data on soil moisture levels, weather patterns, and crop-specific requirements. By leveraging data-driven insights, farmers can make informed decisions to enhance water efficiency, improve crop yields, and reduce environmental impact.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I5",
+    "title": "Home Automation for Energy Efficiency",
+    "description": "IoT-based home automation system that optimizes energy consumption by controlling lighting, heating, and other appliances based on user behavior and environmental conditions.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I6",
+    "title": "Security and Privacy",
+    "description": "Developing robust security mechanisms for IoT devices to prevent unauthorized access and data breaches. Ensuring data privacy in the collection, storage, and transmission of sensitive information through IoT networks.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I7",
+    "title": "Scalability",
+    "description": "Designing scalable IoT architectures that can accommodate the increasing number of devices and data volumes while maintaining performance and efficiency.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I8",
+    "title": "Interoperability",
+    "description": "Creating standards and protocols to enable seamless communication and interoperability among diverse IoT devices and platforms.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I9",
+    "title": "Energy Efficiency",
+    "description": "Improving the energy efficiency of IoT devices to extend battery life, especially in applications where devices are deployed in remote or hard-to-reach locations.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I10",
+    "title": "Reliability and Resilience",
+    "description": "Enhancing the reliability and resilience of IoT networks to withstand failures, disruptions, or attacks without compromising the overall functionality.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I11",
+    "title": "Data Management and Analytics",
+    "description": "Developing efficient methods for handling and analyzing massive amounts of data generated by IoT devices, including real-time processing and analytics.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I12",
+    "title": "Regulatory Compliance",
+    "description": "Addressing legal and regulatory challenges associated with IoT, including data protection laws, standards compliance, and ethical considerations.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I13",
+    "title": "Smart Agriculture",
+    "description": "Develop an IoT solution for agriculture that includes soil moisture sensors, temperature monitoring, and automated irrigation systems to optimize water usage and improve crop yield in a sustainable manner.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "I14",
+    "title": "Traffic Management",
+    "description": "Create a smart traffic management system using IoT devices and sensors to gather real-time data on traffic flow, optimize signal timings, and provide intelligent recommendations to reduce congestion and enhance overall traffic efficiency.",
+    "track": ["IoT", "Web 2"]
+  },
+  {
+    "id": "I15",
+    "title": "Waste Management",
+    "description": "Create an IoT-enabled waste management system that optimizes garbage collection routes based on fill levels of bins. The solution should also include a user interface for residents to receive alerts and contribute to waste reduction efforts.",
+    "track": ["IoT"]
+  },
+  {
+    "id": "W1",
+    "title": "Mental Health Support Ecosystem",
+    "description": "Develop a transformative platform that fosters meaningful connections between individuals in need of mental health support and a diverse array of resources, qualified professionals, and a compassionate community.",
+    "track": ["Web 2", "Web 3"]
+  },
+  {
+    "id": "W2",
+    "title": "Web Platform for Smart City Solutions",
+    "description": "Web platform that harmonizes diverse urban services, including intelligent traffic management, optimized waste disposal systems, enhanced energy efficiency measures, and streamlined public transportation networks. The goal is to empower cities with a centralized, interconnected solution for sustainable urban living, leveraging technology to improve efficiency, reduce environmental impact, and enhance the overall quality of life for residents.",
+    "track": ["Web 2", "Web 3"]
+  },
+  {
+    "id": "W3",
+    "title": "Sustainable Food Sharing Platform",
+    "description": "A user-friendly platform that facilitates the seamless connection between individuals, businesses, and organizations, fostering the sharing of surplus food resources with those facing hunger. Design an app or service that connects local restaurants/groceries with individuals or organizations willing to pick up surplus food near closing time, preventing waste and feeding those in need. Consider incorporating logistics, volunteer management, and food safety features",
+    "track": ["Web 2", "Web 3"]
+  }
+]

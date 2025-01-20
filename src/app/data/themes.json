@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Sustainability & Environment",
+    "image": "/Themes/gaming.jpg"
+  },
+  {
+    "title": "Healthcare & Well-being",
+    "image": "/Themes/health.jpg"
+  },
+  {
+    "title": "Technology & Innovation",
+    "image": "/Themes/finTech.jpg"
+  },
+    {
+      "title": "Education & Social Impact",
+      "image": "/Themes/education.jpg"
+    },
+    {
+      "title": "Entertainment, Media & Culture",
+      "image": "/Themes/transport.jpg"
+    },
+    {
+      "title": "Finance & Business Solutions",
+      "image": "/Themes/cybersecurity.jpg"
+    },
+    {
+      "title": "Open Innovation",
+      "image": "/Themes/iot.jpg"
+    }
+  ]
+  

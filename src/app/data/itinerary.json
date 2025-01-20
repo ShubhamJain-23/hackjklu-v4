@@ -1,0 +1,24 @@
+{
+  "day1Events": [
+    { "time": "12:00 PM", "event": "Check-in" },
+    { "time": "02:00 PM", "event": "Opening Ceremony" },
+    { "time": "03:00 PM", "event": "Workshop by JDW" },
+    { "time": "06:00 PM", "event": "Hackathon Starts" }
+  ],
+  "day2Events": [
+    { "time": "09:00 AM", "event": "Session by Prof. Iyenger" },
+    { "time": "10:00 AM", "event": "Mentoring Round" },
+    { "time": "01:00 PM", "event": "Coding Ninjas Event" },
+    { "time": "03:00 PM", "event": "Improv by Nakab" },
+    { "time": "04:00 PM", "event": "Session by Pranav M." },
+    { "time": "06:00 PM", "event": "Workshop by GFG" },
+    { "time": "09:00 PM", "event": "Music Night by Anunaad" }
+  ],
+  "day3Events": [
+    { "time": "06:00 AM", "event": "Submission Time" },
+    { "time": "09:00 AM", "event": "Evaluation Round 1" },
+    { "time": "01:00 PM", "event": "Evaluation Round 2" },
+    { "time": "03:00 PM", "event": "Closing Ceremony" },
+    { "time": "07:00 PM", "event": "DJ night by JDW" }
+  ]
+}

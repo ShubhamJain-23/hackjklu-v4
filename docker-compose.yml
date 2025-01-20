@@ -1,0 +1,14 @@
+version: "3"
+services:
+
+  nodejs_v1:
+    hostname: nodejs_v1
+    build:
+      context: ./
+      dockerfile: docker/prod/nodejs_v1/Dockerfile 
+    ports:
+      - "3200:3000"
+    volumes:
+    - /code/node_modules
+    container_name: hackjklu_nodejs_v1
+

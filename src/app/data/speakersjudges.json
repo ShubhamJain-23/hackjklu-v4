@@ -1,0 +1,62 @@
+[
+    {
+        "role": "SDE-II at Microsoft",
+        "name": "Pranav M",
+        "photo": "/speakers-judges/pranav.jpg",
+        "linkedin": "https://www.linkedin.com/in/candidatepstx-95adfsdk23/"
+    },
+    {
+        "role": "Head CSE at IIT Ropar",
+        "name": "Sudarshan Iyengar",
+        "photo": "/speakers-judges/profiyengar.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sudarshan-iyengar-3560b8145/"
+    },
+    {
+        "role": "Founder at Hygge",
+        "name": "Sandhita Agarwal",
+        "photo": "/speakers-judges/sandhitaagarwal.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sandhitaagarwal/"
+    },
+    {
+        "role": "Founder at Ecovia",
+        "name": "Aman",
+        "photo": "/speakers-judges/aman.jpg",
+        "linkedin": "https://ecovia-pro.com/"
+    },
+    {
+        "role": "Co Founder at Humanli AI",
+        "name": "Rishabh Nag",
+        "photo": "/speakers-judges/rishabhnag.jpeg",
+        "linkedin": "https://www.linkedin.com/in/rishabh-nag-founder03/"
+    },
+    {
+        "role": "Lead Data Scientist at KainSkep",
+        "name": "Devendra Parihar",
+        "photo": "/speakers-judges/devendraparihar.jpg",
+        "linkedin": "https://www.linkedin.com/in/devendra-parihar/"
+    },
+    {
+        "role": "Head of Quality and Automation Testing",
+        "name": "Rohit Mehta",
+        "photo": "/speakers-judges/rohitmehta.webp",
+        "linkedin": "https://www.linkedin.com/in/rohitmehta086/"
+    },
+    {
+        "role": "Remote Sensing Engineer at BharatRohan",
+        "name": "Harshaditya Gaur",
+        "photo": "/speakers-judges/harshadityagaur.webp",
+        "linkedin": "https://www.linkedin.com/in/harshadityagaur/"
+    },
+    {
+        "role": "Associate Software Engineer at Celebal Technologies",
+        "name": "Vineet Sharma",
+        "photo": "/speakers-judges/vineetsharma.webp",
+        "linkedin": "https://www.linkedin.com/in/vineetsharma-24/"
+    },
+    {
+        "role": "Associate Software Engineer at CoinDCX",
+        "name": "Sparsh Agarwal",
+        "photo": "/speakers-judges/sparshagarwal.webp",
+        "linkedin": "https://linkedin.com/in/akathecoder"
+    }
+]

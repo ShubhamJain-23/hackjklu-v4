@@ -1,0 +1,96 @@
+[
+    {
+        "name": "MSI",
+        "photo": "/sponsors/msi.png",
+        "website": "https://in.msi.com/"
+    },
+    {
+        "name": "Sunrise Computers",
+        "photo": "/sponsors/sunrisecomputers.png",
+        "website": "https://thesunrisecomputers.com/"
+    },
+    {
+        "name": "Niti-Aayog",
+        "photo": "/sponsors/niti-aayog.png",
+        "website": "https://www.niti.gov.in/"
+    },
+    {
+        "name": "AIM",
+        "photo": "/sponsors/aim.png",
+        "website": "https://aim.gov.in/"
+    },
+    {
+        "name": "AIC-JKLU",
+        "photo": "/sponsors/aic-jklu.png",
+        "website": "https://www.aicjklu.in/"
+    },
+    {
+        "name": "IEEE",
+        "photo": "/sponsors/ieee.png",
+        "website": "https://www.ieee.org/"
+    },
+    {
+        "name": "Polygon",
+        "photo": "/sponsors/polygon.png",
+        "website": "https://polygon.technology/"
+    },
+    {
+        "name": "Coding Ninjas",
+        "photo": "/sponsors/coding-ninjas.png",
+        "website": "https://www.codingninjas.com/"
+    },
+    {
+        "name": "GeeksforGeeks",
+        "photo": "/sponsors/geeksforgeeks.png",
+        "website": "https://www.geeksforgeeks.org/"
+    },
+    {
+        "name": "ETHIndia",
+        "photo": "/sponsors/ethindia.png",
+        "website": "https://ethindia.co/"
+    },
+    {
+        "name": "StreamYard",
+        "photo": "/sponsors/streamyard.png",
+        "website": "https://streamyard.com/"
+    },
+    {
+        "name": "Pantone",
+        "photo": "/sponsors/pantone.jpg",
+        "website": "https://sudarshanbooks.com/"
+    },
+    {
+        "name": "Devfolio",
+        "photo": "/sponsors/devfolio.png",
+        "website": "https://devfolio.co/",
+        "type": "Registrations Partner"
+    },
+    {
+        "name": "Dev-Station",
+        "photo": "/sponsors/dev-station.png",
+        "website": "https://www.devstations.tech/",
+        "type": "Community Partner"
+    },
+    {
+        "name": "Devs Dungeon",
+        "photo": "/sponsors/devs-dungeon.png",
+        "website": "https://devs-dungeon.github.io/bio/",
+        "type": "Community Partner"
+    },
+    {
+        "name": "The Dev Army",
+        "photo": "/sponsors/devarmy.png",
+        "website": "https://thedevarmy.com/",
+        "type": "Community Partner"
+    },
+    {
+        "name": "Correct Steps Consultancy",
+        "photo": "/sponsors/csc.png",
+        "website": "https://thecorrectsteps.com/"
+    },
+    {
+        "name": "Give My Certificate",
+        "photo": "/sponsors/gmc.png",
+        "website": "https://givemycertificate.com/"
+    }
+]

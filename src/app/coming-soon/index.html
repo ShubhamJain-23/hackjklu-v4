@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coders at Work</title>
+    <!-- Tailwind CSS CDN Link (if you don't have a build setup) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome CDN Link -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body class="min-h-screen bg-gray-900 text-white flex justify-center items-center relative overflow-hidden">
+
+    <!-- Glassmorphism Card Section (Top Center) -->
+    <div class="content text-center w-full h-full max-w-2xl p-10 bg-black bg-opacity-10 backdrop-blur-xl rounded-xl shadow-xl animate-fadeIn z-10">
+        <h2 class="text-6xl font-extrabold text-blue-600 mb-4 typewriter-glitch">Coders at Work</h2>
+        <p class="text-3xl font-semibold text-green-400 mb-6 px-6 leading-relaxed text-center hover:text-white transition duration-300">Innovation Incoming!</p>
+
+        <!-- Submit Your Problem Button -->
+        <button class="submit-btn mt-6 px-6 py-3 bg-blue-600 text-white text-lg rounded-lg transition-all transform hover:bg-green-400 hover:scale-105" onclick="window.location.href='https://www.hackjklu.com/submit-your-problem'">Submit Your Problem</button>
+
+        <!-- Social Media Icons -->
+        <div class="social-media flex justify-center mt-8 opacity-0 animate-fadeInIcons">
+            <a href="https://www.instagram.com/hackjklu" class="social-icon flex justify-center items-center w-12 h-12 bg-blue-600 text-white rounded-full m-3 transition-transform transform hover:bg-green-400 hover:scale-125 hover:rotate-12" title="Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/council-of-technical-affairs-jklu/" class="social-icon flex justify-center items-center w-12 h-12 bg-blue-600 text-white rounded-full m-3 transition-transform transform hover:bg-green-400 hover:scale-125 hover:rotate-12" title="LinkedIn">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://www.youtube.com/@CouncilofTechnicalAffairs" class="social-icon flex justify-center items-center w-12 h-12 bg-blue-600 text-white rounded-full m-3 transition-transform transform hover:bg-green-400 hover:scale-125 hover:rotate-12" title="Youtube">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- Background Image Section (Bottom Center) -->
+    <div class="background-container absolute top-0 left-0 w-full h-full flex justify-center items-center z-[-2]">
+        <img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Background Image" class="w-full h-full object-cover rounded-xl">
+    </div>
+
+    <!-- Particle Effect -->
+    <div id="particles-js" class="absolute top-0 left-0 w-full h-full z-[-1]"></div>
+    
+</body>
+</html>

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Team Size?",
+    "answer": "2-5 participants",
+    "isOpen": false
+  },
+  {
+    "question": "Is there a fee to participate in the hackathon?",
+    "answer": "Yes, it is free to participate. But food charges are applicable.",
+    "isOpen": false
+  },
+  {
+    "question": "Is hackathon offline or online?",
+    "answer": "It's a completely offline hackathon at JKLU in Jaipur",
+    "isOpen": false
+  },
+  {
+    "question": "Will there be food and living accommodation at the hackathon location?",
+    "answer": "Yes, Participants can avail university food at very minimal cost and accommodations are free.",
+    "isOpen": false
+  },
+  {
+    "question": "Where does the hackathon take place?",
+    "answer": "JK Lakshmipat University, Jaipur (Google maps link is in the footer)",
+    "isOpen": false
+  }
+]
