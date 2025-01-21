@@ -192,17 +192,102 @@ export default function SignupFormDemo() {
               required
             >
               <option value="" disabled className="text-black bg-white">
-                Select Designation
-              </option>
-              <option value="student" className="text-black bg-white">
-                Student
-              </option>
-              <option value="software-engineer" className="text-black bg-white">
-                Software Engineer
-              </option>
-              <option value="other" className="text-black bg-white">
-                Other
-              </option>
+    Select Designation
+</option>
+<option value="student" className="text-black bg-white">
+    Student
+</option>
+<option value="industry-professional" className="text-black bg-white">
+    Industry Professional
+</option>
+<option value="faculty" className="text-black bg-white">
+    Faculty/Academic Staff
+</option>
+<option value="corporate-representative" className="text-black bg-white">
+    Corporate Representative
+</option>
+<option value="startup-founder" className="text-black bg-white">
+    Startup Founder
+</option>
+<option value="freelancer" className="text-black bg-white">
+    Freelancer
+</option>
+<option value="admin-staff" className="text-black bg-white">
+    Admin Staff
+</option>
+<option value="government-representative" className="text-black bg-white">
+    Government Representative
+</option>
+<option value="researcher" className="text-black bg-white">
+    Researcher
+</option>
+<option value="tech-enthusiast" className="text-black bg-white">
+    Tech Enthusiast
+</option>
+<option value="entrepreneur" className="text-black bg-white">
+    Entrepreneur
+</option>
+<option value="designer" className="text-black bg-white">
+    Designer
+</option>
+<option value="software-developer" className="text-black bg-white">
+    Software Developer
+</option>
+<option value="data-scientist" className="text-black bg-white">
+    Data Scientist
+</option>
+<option value="business-analyst" className="text-black bg-white">
+    Business Analyst
+</option>
+<option value="product-manager" className="text-black bg-white">
+    Product Manager
+</option>
+<option value="project-manager" className="text-black bg-white">
+    Project Manager
+</option>
+<option value="qa-engineer" className="text-black bg-white">
+    Quality Assurance Engineer
+</option>
+<option value="system-architect" className="text-black bg-white">
+    System Architect
+</option>
+<option value="marketing-professional" className="text-black bg-white">
+    Marketing Professional
+</option>
+<option value="investor" className="text-black bg-white">
+    Investor
+</option>
+<option value="legal-expert" className="text-black bg-white">
+    Legal Expert
+</option>
+<option value="ai-ml-specialist" className="text-black bg-white">
+    AI/ML Specialist
+</option>
+<option value="blockchain-expert" className="text-black bg-white">
+    Blockchain Expert
+</option>
+<option value="cybersecurity-expert" className="text-black bg-white">
+    Cybersecurity Expert
+</option>
+<option value="ui-ux-designer" className="text-black bg-white">
+    UI/UX Designer
+</option>
+<option value="content-creator" className="text-black bg-white">
+    Content Creator
+</option>
+<option value="community-leader" className="text-black bg-white">
+    Community Leader
+</option>
+<option value="mentor" className="text-black bg-white">
+    Mentor
+</option>
+<option value="sponsor-representative" className="text-black bg-white">
+    Sponsor Representative
+</option>
+<option value="other" className="text-black bg-white">
+    Other
+</option>
+
             </select>
           </LabelInputContainer>
 
