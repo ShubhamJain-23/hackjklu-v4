@@ -2,6 +2,7 @@
 import React, { useEffect } from "react";
 import Image from "next/image";
 import HomeComponent from "./components/home";
+import {LogoAnimation} from "./components/sponsorAnimation";
 import CodersAtWork from "./components/coming-soon";
 
 const Home: React.FC = () => {
@@ -29,6 +30,7 @@ const Home: React.FC = () => {
       </div>
 
       <CodersAtWork />
+      <LogoAnimation />
     </div>
   );
 };
